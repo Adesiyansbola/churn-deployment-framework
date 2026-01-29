@@ -14,9 +14,6 @@ a decision-support dashboard.
 ## Installation
 pip install -r requirements.txt
 
-## Usage
-python src/train_model.py
-streamlit run src/dashboard.py
 
 ## Synthetic Data
 Churn labels are generated via a probabilistic behavior-based model.
