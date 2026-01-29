@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Churn Deployment Framework"
+message: "If you use this software, please cite it."
+authors:
+  - family-names: YourLastName
+    given-names: YourFirstName
+version: 1.0.0
+date-released: 2026-01-29
+license: MIT
